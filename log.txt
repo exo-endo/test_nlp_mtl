@@ -1,0 +1,2 @@
+2025-11-24T16:57:20.818936 | epochs=2 | accuracy=0.9897610921501706 | out_dir=models/clinicalbert_homeless
+2025-12-01T19:22:16.115971 | epochs=2 | {'eval_env_acc': 0.9665676077265973, 'eval_edu_acc': 0.9918276374442794, 'eval_econ_acc': 0.9316493313521546, 'eval_runtime': 50.9237, 'eval_samples_per_second': 26.432, 'eval_steps_per_second': 1.669, 'epoch': 2.0}
